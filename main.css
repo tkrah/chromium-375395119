@@ -1,0 +1,13 @@
+.mre-char-box-sequence .mre-char-box {
+    display: inline-block;
+    position: relative
+}
+
+.mre-p-template--gp .mre-char-box-sequence .mre-char-box .mre-fill--sample {
+    font-family: "Patrick Hand", cursive;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 21px;
+    text-align: center;
+    vertical-align: middle
+}

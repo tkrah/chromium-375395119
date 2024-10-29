@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="793.27997"
+   height="1122.5601"
+   viewBox="0 0 793.27997 1122.5601"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 2479.9805 V 3508.0078 H 0 Z"
+         transform="matrix(0.31999999,0,0,0.31999999,-7.9999997,-26.999999)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3">
+      <path
+         d="M 0,0 H 2479.9805 V 3508.0078 H 0 Z"
+         transform="matrix(0.31999999,0,0,0.31999999,-26.890624,-26.999999)"
+         clip-rule="evenodd"
+         id="path3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 2479.9805 V 3508.0078 H 0 Z"
+         transform="matrix(0.31999999,0,0,0.31999999,-44.656248,-26.999999)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 2479.9805 V 3508.0078 H 0 Z"
+         transform="matrix(0.31999999,0,0,0.31999999,-60.140622,-26.999999)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 2479.9805 V 3508.0078 H 0 Z"
+         transform="matrix(0.31999999,0,0,0.31999999,-75.843747,-26.999999)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         d="M 0,0 H 2479.9805 V 3508.0078 H 0 Z"
+         transform="matrix(0.31999999,0,0,0.31999999,-90.906246,-26.999999)"
+         clip-rule="evenodd"
+         id="path7" />
+    </clipPath>
+  </defs>
+  <g
+     id="g1">
+    <g
+       id="g2" />
+    <text
+       id="text2"
+       xml:space="preserve"
+       transform="translate(7.9999997,26.999999)"
+       clip-path="url(#clipPath2)"><tspan
+         id="tspan2"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1e-32px;font-family:'Patrick Hand';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0">M</tspan></text>
+    <g
+       id="g3" />
+    <text
+       id="text3"
+       xml:space="preserve"
+       transform="translate(26.890624,26.999999)"
+       clip-path="url(#clipPath3)"><tspan
+         id="tspan3"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1e-32px;font-family:'Patrick Hand';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0">U</tspan></text>
+    <g
+       id="g4" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="translate(44.656248,26.999999)"
+       clip-path="url(#clipPath4)"><tspan
+         id="tspan4"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1e-32px;font-family:'Patrick Hand';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0">S</tspan></text>
+    <g
+       id="g5" />
+    <text
+       id="text5"
+       xml:space="preserve"
+       transform="translate(60.140622,26.999999)"
+       clip-path="url(#clipPath5)"><tspan
+         id="tspan5"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1e-32px;font-family:'Patrick Hand';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0">T</tspan></text>
+    <g
+       id="g6" />
+    <text
+       id="text6"
+       xml:space="preserve"
+       transform="translate(75.843747,26.999999)"
+       clip-path="url(#clipPath6)"><tspan
+         id="tspan6"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1e-32px;font-family:'Patrick Hand';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0">E</tspan></text>
+    <g
+       id="g7" />
+    <text
+       id="text7"
+       xml:space="preserve"
+       transform="translate(90.906246,26.999999)"
+       clip-path="url(#clipPath7)"><tspan
+         id="tspan7"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1e-32px;font-family:'Patrick Hand';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0">R</tspan></text>
+  </g>
+</svg>
